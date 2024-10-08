@@ -1,0 +1,13 @@
+{
+  "name": "alternator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AlternatorPlugin.js",
+  "typs": "AlternatorPlugin.d.ts",
+  "author": "wangtengyu",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@rollup/pluginutils": "^5.1.0"
+  }
+}
