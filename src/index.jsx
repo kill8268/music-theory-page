@@ -2,7 +2,7 @@ import { SWRConfig } from "swr";
 import lazy from "@/hoc/lazy.hoc";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import "@/assets/styles/index";
+import "@/assets/styles/index.css";
 
 const createRouter = (router) => {
   const { path, element } = router;
